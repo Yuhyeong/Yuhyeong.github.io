@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Yuhyeong"
+title                    : "个人PAGE"
 title_separator          : "-"
 name                     : &name "Yuhyeong"
 description              : &description "个人描述占位符"
