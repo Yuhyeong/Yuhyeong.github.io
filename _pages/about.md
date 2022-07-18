@@ -1,13 +1,3 @@
----
-permalink: /
-title: "Yuhyeong Page"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 **简介**
 
 本科：郑州大学，计算机科学与技术专业
