@@ -21,6 +21,9 @@ redirect_from:
 
 **Biography**
 
-I am a postgraduate student at [Zhengzhou University](https://www.mpi-inf.mpg.de/departments/visual-computing-and-artificial-intelligence) with [Prof. Weiming Dong](https://people.mpi-inf.mpg.de/~theobalt/). I obtained my bachelor degree in Computer Science & Technology from [Zhengzhou University](https://www.uestc.edu.cn/). My research interests are Generative Models and Neural Rendering, especially Neural Radiance Fields.
-I am looking for internship & master thesis students working on GAN, and Scene Representation. Please contact lemar14@163.com if you are interested.
+I am a postgraduate student at [Zhengzhou University](http://www.zzu.edu.cn/) with [Prof. Weiming Dong](https://people.ucas.edu.cn/~0019737). I obtained my bachelor degree in Computer Science & Technology from [Zhengzhou University](https://www.uestc.edu.cn/). 
+
+My research interests are Computer Vision and Artificial Intelligence Generated Content (AIGC), especially Model Re-parameterization.
+
+Please contact lemar14@163.com if you are interested.
 
